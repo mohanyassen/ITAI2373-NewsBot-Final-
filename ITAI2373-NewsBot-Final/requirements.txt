@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+gensim
+pyLDAvis
+sentence-transformers
+transformers
+torch
+googletrans==4.0.0rc1
+textblob
+matplotlib
+seaborn
+tqdm
